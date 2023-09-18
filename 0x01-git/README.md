@@ -1,1 +1,1 @@
-Learning about repositories on github
+Learning about repositories on github.
